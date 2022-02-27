@@ -7,6 +7,9 @@ public class SannerPractice {
         int salary;
         System.out.println("My name is sumeet");
 
+        // hello how are you
+
+
 
 
     }
