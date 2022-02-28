@@ -13,7 +13,7 @@ public class KilometerToMiles {
 
        miles = (km * 0.621371);
 
-        System.out.printf("%.2f Kilometer = %.2f miles",km, miles);
+        System.out.printf("%.2f Kilometers = %.2f miles",km, miles);
 
 
 
